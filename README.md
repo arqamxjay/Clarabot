@@ -1,3 +1,8 @@
+<img width="588" height="465" alt="Screenshot 2026-01-21 at 2 35 15 PM" src="https://github.com/user-attachments/assets/e33f8d8a-ad15-4b8b-8f6c-312d58860124" />
+
+
+
+
 ClaraBot – Rule-Based Chatbot
 
 ClaraBot is a lightweight, human-written, rule-based chatbot developed using the C programming language.
